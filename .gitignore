@@ -8,3 +8,8 @@ quickstart/
 paymentprocessor
 .DS_Store
 pp3/
+node_modules/
+__pycache__/
+pp/
+serviceAccountKey.json
+miza-b7c1e-firebase-adminsdk-669bt-1a57ef03bc.json
